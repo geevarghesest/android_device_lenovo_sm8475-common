@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## from asphalt (TB320FC_ROW_OPEN_USER_Q00031.0_V_ZUI_17.0.339_ST_251219)
+## from asphalt (TB320FC_ROW_OPEN_USER_Q00031.0_V_ZUI_17.0.373_ST_260912)
 
 # ADSP
 vendor/bin/adsprpcd
